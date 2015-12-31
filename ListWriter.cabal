@@ -2,7 +2,7 @@ name:                ListWriter
 version:             0.1.0.0
 synopsis:            define a list constant using Monadic syntax other than overhead [,]
 description:         Please see README.md
-homepage:            http://github.com/githubuser/ListWriter#readme
+homepage:            http://github.com/ylilarry/ListWriter#readme
 license:             BSD3
 author:              Yu Li
 maintainer:          ylilarry@gmail.com
@@ -37,4 +37,4 @@ test-suite ListWriter-test
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/ListWriter
+  location: https://github.com/ylilarry/ListWriter
